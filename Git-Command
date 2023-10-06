@@ -1,4 +1,4 @@
-Top 10 Git Command
+Top 12 Git Command
 
 #git init
 creating new git repository
@@ -14,6 +14,27 @@ file added to git and also comments provided by user
 
 #git branch 
 checking how many git branch available 
+
+#git checkout -b <name>
+create new git repository with <name>
+
+#git checkout main
+switching the repository 
+
+#git config --global user.name
+configure git with global name
+
+#git config --global user.email
+configure git with user email id
+
+#git log
+getting the all log file
+
+#git restore 
+restore data from git repository to local
+
+#git clone 
+cloning the git repository from git Hub
 
 
 
