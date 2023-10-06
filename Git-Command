@@ -1,1 +1,19 @@
-a
+Top 10 Git Command
+
+#git init
+creating new git repository
+
+#git status
+checking any file is untrack and staginng stage
+
+#git add <file name>
+add untrack file to staging stage
+
+#git commit -m "comments"
+file added to git and also comments provided by user
+
+#git branch 
+checking how many git branch available 
+
+
+
